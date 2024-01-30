@@ -1,0 +1,6 @@
+what is CSS?
+CSS is cascading style sheets, a style sheet language used for describing the presentation of a document written in a markup language such as HTML
+structure-HTML
+style-CSS
+functionality-JS
+we can use css file to many html files

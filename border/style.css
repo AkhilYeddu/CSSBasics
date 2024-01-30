@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    font-family: "consolas",sans-serif;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+}
+p1{
+    color: aliceblue;
+    border-style: inset;
+    border-color: gold;
+    border-radius: 10px;
+
+    
+}
