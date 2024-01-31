@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    
+}
+#box1
+{
+    border: solid;
+    background-color: gold;
+     padding: 10px; /*padding is the space b/w border and element inside */
+    
+    height: 250px;
+    width:250px;
+    font-size:18px;
+    /* margin-top:50px;
+    margin-right: 50px;
+    margin-left: 50px; */
+    margin-left:auto; /*dynamically changes with change in size of webiste,whereas px do not*/
+}
+#box2{
+    border: solid;
+    background-color: silver;
+    padding: 10px;
+    height: 250px;
+    width:250px;
+    font-size:18px;
+    margin-right:50%; /*does all these margin top,left,right in one word*/
+}

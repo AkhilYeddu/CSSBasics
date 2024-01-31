@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(18, 16, 16)
+}
+p{
+    clear: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+.box
+{
+    float:left;
+     color:white;
+    border:solid;
+    height: 50px;
+    width: 50px;
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    background-color: tomato;
+    
+}
