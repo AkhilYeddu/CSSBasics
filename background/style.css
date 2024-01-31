@@ -1,0 +1,22 @@
+body{
+    background-image:url(beach.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    background: linear-gradient(to left,rgb(0, 244, 57),rgb(0, 94, 255, 0.963));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "consolas",sans-serif;
+    color: yellow;
+}
+p1{
+    background: linear-gradient(to left,rgb(0, 244, 57),rgb(0, 94, 255, 0.963));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-weight: 600;
+    font-style: inherit;
+}
