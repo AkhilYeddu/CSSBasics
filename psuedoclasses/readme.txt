@@ -1,0 +1,1 @@
+PSUEDO-CLASS= A keyword added to a selector that specifies a special state of the selected elements(s)

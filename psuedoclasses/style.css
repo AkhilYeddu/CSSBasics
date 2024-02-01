@@ -1,0 +1,30 @@
+a:link{
+    color:yellowgreen
+}
+/* a:visited{
+    color: gray;
+} */
+a:hover{
+    color: tomato;
+}
+a:active{
+    color: yellow;
+}
+
+button{
+    background-color:rgb(88, 88, 229);
+}
+button:hover{
+    background-color: gray;
+}
+button:active{
+    background-color: white;
+}
+li:nth-child(2n-1)
+{
+    background-color:lightblue ;
+}
+li:nth-child(2n)
+{
+    background-color:rgb(207, 239, 249) ;
+}
