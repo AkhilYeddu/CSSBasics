@@ -1,0 +1,10 @@
+/* there are 2 types of shadows
+one is text-shadow
+and another is box-shadow */
+h{
+    text-shadow: 0px 0px 5px yellow,0px -5px 5px red;
+
+}
+h:hover{
+    box-shadow: 5px 5px 5px black;
+}
