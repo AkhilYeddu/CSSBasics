@@ -1,0 +1,33 @@
+#box1
+{
+    border: 3px solid;
+    height: 250px;
+    width: 250px;
+    font-size: 220px;
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    border-color: black;
+    
+   
+    transform: translateX(60px);
+    transform: translateY(60px);
+    transform: translate(60px);
+     transform: (70px,70px); /*x,y */
+     transform: rotateX(180deg);
+     transform: rotateY(180deg);
+     transform: rotateZ(360deg);
+     transform: skewX(45deg);
+     transform: skewY(45deg);
+
+     transform: matrix(1,0,0,1,0,0);
+
+     /* scalex;
+     skewy;
+     skewx;  matrix order
+     scaley;
+     translatex;
+     translatey; */
+
+
+}
